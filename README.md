@@ -1,4 +1,4 @@
-# Content Score 1.2: Analyzing Video Metrics Using Principal Component Analysis
+# Content Score: Analyzing Metrics Using Principal Component Analysis
 
 This project explores the use of Principal Component Analysis (PCA) to analyze time-based metrics from video data. The goal is to identify underlying patterns in video viewing behavior using PCA weights.
 
