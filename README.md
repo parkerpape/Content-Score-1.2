@@ -23,9 +23,6 @@ The project uses the standard PCA implementation from scikit-learn, applying it 
 - PCA reveals which time-based metrics contribute most to variance in video engagement.
 - The sign (positive/negative) of PCA weights shows how each feature relates to the principal component—some features may be inversely correlated with the main component.
 
-## 📚 Report
-A link to the [overview](https://docs.google.com/presentation/d/100dL1hWPIGiG7HWflo1zFf7Lb9M___xqVrMCv2woghk/edit?slide=id.g3369b4db50b_0_0#slide=id.g3369b4db50b_0_0) of my findings can be found here along with accompanying reports for the latest versions of the content scores: [V2](https://docs.google.com/presentation/d/1DwxSftw3wK3XFOZldXHD7aO3MoVp4giHdUwJxRGCKII/edit?slide=id.g3369b4db50b_0_0#slide=id.g3369b4db50b_0_0) and [A3](https://docs.google.com/presentation/d/1N6Zji6iiYgxi3fPdVmWDEtRIYmz8q_P34w5UckgDm-U/edit?slide=id.g3369b4db50b_0_0#slide=id.g3369b4db50b_0_0).
-
 ## 📂 Repository Structure
 - `PCA V1.ipynb`: Jupyter Notebook code and analysis for PCA of V1 of Content Score.
 - `PCA V2.ipynb`: Jupyter Notebook code and analysis for PCA of V2 of Content Score.
